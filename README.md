@@ -4,7 +4,7 @@ Gimbal controller BGC 3.1 (use as Arduino), two BLDC gimbal motors GBM2804H-100T
 
 I use the Simple FOC library to control the BLDC motors.
 
-Balancing controllers can be tunning remotely over bluetooth.
+Balancing controllers can be tuned remotely over bluetooth.
 
 Example (change K1Y):
 
